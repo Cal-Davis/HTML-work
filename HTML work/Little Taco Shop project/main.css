@@ -1,0 +1,21 @@
+a{
+    color: rgb(115, 147, 175);
+}
+
+a:visited{
+    color: rgb(21, 130, 202);
+}
+
+a:hover,a:active{
+    color:rgb(49, 68, 68)
+}
+ 
+
+
+table, tr, th , td, caption{
+    border: 1px solid #241c1c;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse:collapse;
+    padding: 0.5em;
+
+}
